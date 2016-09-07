@@ -13,5 +13,6 @@ Second class
 	git diff
 Third class
 	git log [--pretty=oneline]
+	git reflog
 	git reset --hard head^
 	cat (fileName)
