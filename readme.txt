@@ -16,3 +16,5 @@ Third class
 	git reflog
 	git reset --hard head^
 	cat (fileName)
+Fourth class
+	git checkout -- (fileName)
