@@ -22,3 +22,11 @@ Fourth class：
 	after add:
 	git reset HEAD (fileName)
 	git checkout -- (fileName)
+Fifth class:
+	rm test.txt
+	delete:
+	git rm --> git commit
+	back:
+	git checkout -- (fileName)
+	
+	
