@@ -1,4 +1,9 @@
 now let start to learn git!
+perpare:
+	mkdir (directoryName)
+	cd (directoryName)
+	pwd
+	ls -ah
 First class:
 	git init
 	git add (fileName)
