@@ -28,5 +28,7 @@ Fifth class:
 	git rm --> git commit
 	back:
 	git checkout -- (fileName)
+Sixth class:
+	ssh-keygen -t rsa -C "youremail@example.com"
 	
 	
