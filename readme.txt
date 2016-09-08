@@ -5,6 +5,8 @@ perpare:
 	pwd
 	ls -ah
 First class:
+	git config --global user.name "Your Name"
+	git config --global user.email "email@example.com"
 	git init
 	git add (fileName)
 	git commit -m "some message"
