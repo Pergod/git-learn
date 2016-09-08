@@ -39,8 +39,7 @@ Eighth class
 	git branch
 	git branch (branchName)
 	git checkout (branchName)
-	git checkout -b (branchName)
+	git checkout -b (branchName)== git branch (branchName)+git checkout(branchName)
 	git merge (branchName)
 	git branch -d (branchName)
-create a new branch
-	
+create a new branch feature1
