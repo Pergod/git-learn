@@ -31,7 +31,7 @@ Fifth class:
 Sixth class:
 	ssh-keygen -t rsa -C "youremail@example.com"
 Seventh class
-	git remote add origin git@github.com:(githubName)/learngit.git
+	git remote add origin git@github.com:(githubName)/(repositoryName).git
 	git push -u origin master
 	
 	
