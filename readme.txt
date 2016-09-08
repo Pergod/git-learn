@@ -32,14 +32,15 @@ Fifth class:
 	git checkout -- (fileName)
 Sixth class:
 	ssh-keygen -t rsa -C "youremail@example.com"
-Seventh class
+Seventh class:
 	git remote add origin git@github.com:(githubName)/(repositoryName).git
 	git push -u origin master
-Eighth class
+Eighth class:
 	git branch
 	git branch (branchName)
 	git checkout (branchName)
 	git checkout -b (branchName)== git branch (branchName)+git checkout(branchName)
 	git merge (branchName)
 	git branch -d (branchName)
-conflict fixed
+Nineth class:
+	git merge --no-ff
