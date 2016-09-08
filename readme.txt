@@ -44,3 +44,9 @@ Eighth class:
 	git branch -d (branchName)
 Nineth class:
 	git merge --no-ff
+Tenth class:
+	git stash
+	git stash apply
+	git stash pop
+	git stash drop
+	git stash list
