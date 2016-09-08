@@ -42,4 +42,5 @@ Eighth class
 	git checkout -b (branchName)
 	git merge (branchName)
 	git branch -d (branchName)
+create a new branch
 	
