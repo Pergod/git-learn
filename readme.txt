@@ -35,5 +35,11 @@ Sixth class:
 Seventh class
 	git remote add origin git@github.com:(githubName)/(repositoryName).git
 	git push -u origin master
-	
+Eighth class
+	git branch
+	git branch (branchName)
+	git checkout (branchName)
+	git checkout -b (branchName)
+	git merge (branchName)
+	git branch -d (branchName)
 	
