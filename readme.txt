@@ -47,6 +47,6 @@ Nineth class:
 Tenth class:
 	git stash
 	git stash apply
-	git stash pop
 	git stash drop
+	git stash pop = git stash apply + git stash drop
 	git stash list
